@@ -1,0 +1,17 @@
+body {background-color: #000000;}
+body, td, tr {color: #81b4e1; font-family: verdana, arial; font-size: 12px;}
+{scrollbar-face-color:#ffffff; scrollbar-shadow-color:#404040;
+scrollbar-highlight-color:#c0c0c0; scrollbar-3dlight-color:#c0c0c0;
+scrollbar-darkshadow-color:#202020; scrollbar-arrow-color:#666666;
+scrollbar-track-color:#a0a0a0; font-family: Verdana, Arial, Helvetica,
+sans-serif; background-color: #666666; font-size: 11px}
+h1 {color:;}
+h3 {color:;}
+
+.links {font-size: 14px; width:100%; }
+a:link {color:#31b4e1; font-weight: bold; }
+a:visited {font-weight: bold; }
+a:hover {text-decoration: underline overline; font-weight: bold;}
+
+.caption  {color: #ffffff; width:100%; filter:Glow(strength=3, color="#ff0000"); font-size: 20px;}
+.img {border: 0px;}
